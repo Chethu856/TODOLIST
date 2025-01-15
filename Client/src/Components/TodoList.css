@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    word-spacing: 3px;
+    background-color: lightgrey;
+    justify-content: space-between;
+    border: 2px solid gray;
+    border-radius: 40px;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+    
+
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+.jet{
+    color: green;
+    font-style: italic;
+    font-weight: bold;
+    background-color: lightgray;
+    margin: 5px;
+    border-radius: 3px;
+}
+
+.jeo{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    background-color: lightgray;
+    margin: 5px;
+    border-radius: 3px;
+}
+
+li:hover {
+    background-color:lightblue ;
+    color:dodgerblue ;
+}
+
+li:hover {
+    background-color:lightgreen ;
+    color:darkgreen ;
+}
+
+
+

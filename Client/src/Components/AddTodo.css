@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding: 45px;
+    text-align: center;
+    font-size: larger;
+
+    
+}
+
+.btn{
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 40px;
+    
+
+    
+}
+
+.btn:hover {
+    width:50px ;
+    color: darkblue;
+    background-color: lightblue;
+}

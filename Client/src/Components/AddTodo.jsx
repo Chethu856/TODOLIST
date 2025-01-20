@@ -42,7 +42,7 @@ export default function AddTodo() {
             {/*Add button*/}
             <button onClick={createToDo} className="btn">
                 ADD
-            </button>
+            </button><br></br><br></br>
         </div>
     );
 
